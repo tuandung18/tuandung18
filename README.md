@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tuan Dung 👋
+I'm a software developer focused on backend systems, operating systems, and practical AI projects.
+I enjoy building reliable tools and learning through hands-on engineering challenges.
 
-<!--
-**tuandung18/tuandung18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+## Notable Projects
+- [HAL Interpreter](https://github.com/tuandung18/HAL_Interpreter) — Operating-system simulation software developed with Java.
+- [Saboteur Game](https://github.com/tuandung18/Saboteur_Game) — A Java implementation of the Saboteur board game project.
+- [Restaurant Revenue Prediction](https://github.com/tuandung18/Restaurant-Revenue-Prediction) — A machine-learning project for revenue prediction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📱 Mobile: +84 912 345 678
