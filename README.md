@@ -13,6 +13,3 @@ I enjoy building reliable tools and learning through hands-on engineering challe
 - [HAL Interpreter](https://github.com/tuandung18/HAL_Interpreter) — Operating-system simulation software developed with Java.
 - [Saboteur Game](https://github.com/tuandung18/Saboteur_Game) — A Java implementation of the Saboteur board game project.
 - [Restaurant Revenue Prediction](https://github.com/tuandung18/Restaurant-Revenue-Prediction) — A machine-learning project for revenue prediction.
-
-## Contact
-📱 Mobile: +84 912 345 678
